@@ -1,5 +1,5 @@
 - Expertise in Python and SQL
-- Extensive understanding about Data Structures and Algorithms
+- Extensive understanding on Data Structures and Algorithms
 - Good Problem Solving Skills gained by solving 300+ problems on Leetcode
 - Active on Competitive programming sites like HackerEarth/HackerRank
 - Adequate Development and Debugging Skills gained by developing awesome Projects
