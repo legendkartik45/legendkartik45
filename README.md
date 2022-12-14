@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Khunda</h1>
-<h3 align="center">- Expertise in Python and SQL
-- Extensive understanding of Data Structures and Algorithms
-- Good Problem Solving Skills gained by solving 300+ problems on Leetcode
-- Active on Competitive programming sites like HackerEarth/HackerRank
-- Adequate Development and Debugging Skills gained by developing awesome Projects
-
-Back in 2008, my interest in technology grew exponentially right after watching Iron Man.
-My mind was blown by just watching how technology can impact our life.
-Afterward, I spent my time exploring and gradually was viewed as a Problem Solver
-I solved problems(mostly related to Smartphones and Computers) with my family and relatives.
-I kept my problem-solving attitude right through college and developed unique projects that solved real-life problems around me.</h3>
+<h3 align="center">A Passionate Backend Developer and Problem Solving Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendkartik45&label=Profile%20views&color=0e75b6&style=flat" alt="legendkartik45" /> </p>
 
