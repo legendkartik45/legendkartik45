@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartik Khunda</h1>
-<h3 align="center">A Passionate Backend Developer and Problem Solving Enthusiast</h3>
+<h3 align="center">Innovative software engineer passionate about leveraging technology for impactful solutions, fostering collaborative environments, and contributing to open source communities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendkartik45&label=Profile%20views&color=0e75b6&style=flat" alt="legendkartik45" /> </p>
 
